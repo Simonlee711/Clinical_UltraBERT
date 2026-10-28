@@ -1,4 +1,4 @@
-# Clinical UltraBERT
+# Clinical UltraBERT: An Open, State-of-the-Art Encoder for Classification and Retrieval
 
 **Contrastive fine-tuning turns a general-purpose encoder into a medical text embedding model.**
 
